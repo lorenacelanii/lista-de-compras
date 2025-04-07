@@ -5,12 +5,15 @@ Este é um projeto simples e funcional de uma **lista de compras** feito com **H
 
 ---
 
+[▶ Clique aqui para ver o vídeo da Lista de Compras](./listacompras.mp4)
+
+---
+
 ## Funcionalidades
 
 - ✅ Adicionar itens com data e hora atual
 - ✅ Validar campo vazio com mensagem de erro animada
-- ✅ Marcar item como concluído com:
-  - Animação suave de transição
+- ✅ Marcar item como concluído
 - ✅ Remover item da lista com botão
 - ✅ Animações de entrada nos itens
 - ✅ Interface responsiva e estilizada
@@ -22,7 +25,7 @@ Este é um projeto simples e funcional de uma **lista de compras** feito com **H
 - HTML5
 - CSS3 (com animações e responsividade)
 - JavaScript (sem frameworks)
-- Fontes do Google Fonts
+
 
 ---
 
