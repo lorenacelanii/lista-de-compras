@@ -26,10 +26,5 @@ Este é um projeto simples e funcional de uma **lista de compras** feito com **H
 
 ---
 
-## Como usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 
